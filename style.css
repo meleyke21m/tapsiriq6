@@ -1,0 +1,83 @@
+/*
+
+.container{
+
+}
+.logo{
+	width: 250px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.logo img{
+	width: 100px;
+}
+ul{
+	list-style-type: none;
+	display: flex;
+	width: 400px;
+	justify-content: space-around
+
+
+}
+li a{
+	text-decoration: none;
+}
+
+.menu:hover{
+	color: red;
+/*	transition: .1s;*/
+}
+
+/*.box{
+	margin-left: 60px;
+}
+.img{
+	margin-right: 200px;
+}
+.contact{
+	
+    padding: 1rem;
+	background-color: green;
+	border-radius: ;
+}*/
+
+/*.container{
+
+}
+
+ul{
+	list-style-type: none;
+	display: flex;
+	width: 400px;
+	justify-content: space-around
+
+
+}
+
+li a{
+	text-decoration: none;
+
+}
+
+.visit{
+
+padding: 5rem;
+background-color: black;
+border-radius: 10px;
+}*/
+
+.card{
+	display: flex !important;
+	justify-content: space-between !important;
+	background-color: red;
+}
+.card span{
+	display: block;
+}
+.box{
+	width: 400px;
+	height: 500px;
+}
+
+
